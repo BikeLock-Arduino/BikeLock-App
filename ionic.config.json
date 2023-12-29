@@ -1,0 +1,7 @@
+{
+  "name": "BikeLock",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
